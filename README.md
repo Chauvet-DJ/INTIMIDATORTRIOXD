@@ -1,4 +1,4 @@
-# INTIMIDATORTRIOXD
+# Intimidator Trio XD
 
 ## Software Versions
 
